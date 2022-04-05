@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "quicktype": "^15.0.261"
+  }
+}
